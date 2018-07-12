@@ -1,6 +1,6 @@
 {
-  "short_name": "Weaather App",
-  "name": "RAFI WEATHER GH",
+  "short_name": "RafiWeather App",
+  "name": "RAFI WEATHER",
   "icons": [
     {
       "src": "favicon.ico",
@@ -11,6 +11,5 @@
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_image": "https://oasiswebsoft.com/wp-content/uploads/2018/07/weatherman.gif",
   "background_color": "#2c3e50"
 }
