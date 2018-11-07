@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 import Form from "./components/Form";
 import Weather from "./components/Weather.js";
 
-const API_KEY = "84515c66cdd8fc5789150de2e6e5ede6";
+const API_KEY = "Input the api key here";
 
 class App extends React.Component {
   state = {
