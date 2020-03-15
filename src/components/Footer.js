@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => (
   <div>
   <footer className="footer">
-    <h3 className="footer">©2018 Developed by <a href="https://achana.me">Achana Emma Jnr.</a></h3>
+    <h3 className="footer">©{new Date().getYear()} Developed by <a href="#">Achana Emma Jnr.</a></h3>
   </footer>
   </div>
 );
